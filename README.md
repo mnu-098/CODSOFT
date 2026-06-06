@@ -16,8 +16,8 @@ The objective of this internship is to strengthen programming fundamentals, prob
 | Task No. | Project Name           | Status      |
 | -------- | ---------------------- | ----------- |
 | Task 1   | To-Do List Application | Completed   |
-| Task 2   | Password Generator     | In Progress |
-| Task 3   | Rock-Paper-Scissor Game| Pending     |
+| Task 2   | Password Generator     | Completed   |
+| Task 3   | Rock-Paper-Scissor Game| Completed   |
 
 
 ## Technologies Used
